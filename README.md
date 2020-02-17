@@ -1,3 +1,7 @@
+# Edit 
+Collaborator James Burns
+CSS changes Brown tones to Red tones
+
 # Calculator - CalcSS3
 
 This is a CSS3 remake of the well known iPhone™ calculator. (No images, only CSS).<br>
